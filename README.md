@@ -1,1 +1,2 @@
 # miracle
+init master
